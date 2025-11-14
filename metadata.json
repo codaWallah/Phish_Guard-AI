@@ -1,0 +1,5 @@
+{
+  "name": "PhishGuard AI",
+  "description": "An advanced AI-powered tool to detect phishing threats by analyzing URLs and email content. It provides a detailed security report with a risk score and breakdown of potential vulnerabilities.",
+  "requestFramePermissions": []
+}

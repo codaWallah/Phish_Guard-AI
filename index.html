@@ -1,0 +1,54 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PhishGuard AI - Advanced Phishing Detector</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              'primary': '#0D1B2A',
+              'secondary': '#1B263B',
+              'accent': '#415A77',
+              'light': '#E0E1DD',
+              'safe': '#22c55e',
+              'suspicious': '#f59e0b',
+              'dangerous': '#ef4444',
+            },
+          },
+        },
+      }
+    </script>
+  <script type="importmap">
+{
+  "imports": {
+    "react/": "https://aistudiocdn.com/react@^19.2.0/",
+    "react": "https://aistudiocdn.com/react@^19.2.0",
+    "react-dom/": "https://aistudiocdn.com/react-dom@^19.2.0/",
+    "@google/genai": "https://aistudiocdn.com/@google/genai@^1.29.1"
+  }
+}
+</script>
+<style>
+  body {
+    background-color: #0D1B2A;
+    background-image: 
+      /* Soft lighting gradients on top */
+      radial-gradient(circle at 15% 50%, rgba(128, 150, 172, 0.1), transparent 30%),
+      radial-gradient(circle at 85% 30%, rgba(27, 38, 59, 0.4), transparent 40%),
+      /* The new tech/cybersecurity pattern below */
+      url("https://i.ibb.co/5XdTQ5Gw/imgsecurity.png");
+  }
+</style>
+<link rel="stylesheet" href="/index.css">
+</head>
+  <body class="bg-primary text-light">
+    <div id="root"></div>
+  <script type="module" src="/index.tsx"></script>
+</body>
+</html>
