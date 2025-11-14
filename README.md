@@ -24,7 +24,7 @@ A quick look at PhishGuard AI in action.
 | Homepage | Safe Result | Dangerous Result |
 | :---: | :---: | :---: |
 | **HOMEPAGE** | **"SAFE" RESULT** | **"DANGEROUS" RESULT** |
-| `<img width="1920" height="1080" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/c6ce149b-28cd-4cf5-af97-67ad7f92c56b" />` | `<img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/66bf0abe-f866-4d9d-b0ba-1f102f2d6f39" />` | `<img width="1920" height="1080" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/8258c97f-3e5b-44d0-8883-6e3eca515006" />` |
+| <img width="1920" height="1080" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/c6ce149b-28cd-4cf5-af97-67ad7f92c56b" /> | <img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/66bf0abe-f866-4d9d-b0ba-1f102f2d6f39" /> | <img width="1920" height="1080" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/8258c97f-3e5b-44d0-8883-6e3eca515006" /> |
 
 *(**Recommendation:** Replace the placeholders above with actual screenshots of your application. You can upload images to your code repository and link them directly.)*
 
